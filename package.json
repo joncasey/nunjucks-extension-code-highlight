@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-extension-code-highlight",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nunjucks extension to highlight code.",
   "main": "index.js",
   "files": [
