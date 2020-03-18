@@ -15,6 +15,10 @@
   ],
   "author": "Jon Casey (https://github.com/joncasey)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joncasey/nunjucks-extension-code-highlight"
+  },
   "dependencies": {
     "highlight.js": "*",
     "nunjucks": "*"
