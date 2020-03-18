@@ -1,0 +1,22 @@
+{
+  "name": "nunjucks-extension-code-highlight",
+  "version": "0.0.0",
+  "description": "Nunjucks extension to highlight code.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "nunjucks",
+    "extension",
+    "code",
+    "highlight",
+    "highlight.js"
+  ],
+  "author": "Jon Casey (https://github.com/joncasey)",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "*",
+    "nunjucks": "*"
+  }
+}
