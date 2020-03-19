@@ -2,7 +2,7 @@
 
 Nunjucks extension to provide code highlighting.
 
-Currently using [hightlight.js]() for code highlight.
+Currently using [hightlight.js](https://highlightjs.org/) for code highlight.
 
 ## Install
 
