@@ -22,9 +22,9 @@ const env = nunjucks.configure('views')
 require('nunjucks-extension-code-highlight')(env)
 ```
 
-Add markdown to your templates.
+Use `code` in your templates.
 
-```
+``` njk
 Some example CSS
 {% code %}
 body {
